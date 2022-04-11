@@ -2,4 +2,4 @@
 GitHub - Getting Started
 1. Create a repository.
 1. Edit files (.md file, and )
-3. Save changes to the repository.
+3. Save changes (COMMIT CHANGES to the repository).
